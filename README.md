@@ -37,7 +37,7 @@ The last two points together make it very easy to build functions as sequences o
 
 
 
-Also see [Why Ramda?](http://fr.umio.us/why-ramda/), [Why Curry Helps](https://web.archive.org/web/20140714014530/http://hughfdjackson.com/javascript/why-curry-helps) and [Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA&app=desktop).
+Also see [Why Ramda?](http://fr.umio.us/why-ramda/), [Why Curry Helps](https://web.archive.org/web/20140714014530/http://hughfdjackson.com/javascript/why-curry-helps), [Practical Ramda] (http://www.macwright.org/2015/08/27/practical-ramda.html), [Practical Functional JavaScript with Ramda](http://developer.telerik.com/featured/practical-functional-javascript-ramda/) and [Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA&app=desktop).
 
 
 Philosophy
